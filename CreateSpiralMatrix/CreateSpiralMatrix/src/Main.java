@@ -4,7 +4,7 @@ public class Main {
     enum Direction {UP, DOWN, LEFT, RIGHT}
 
     public static void main(String[] args) {
-        int[][] matrix = createSpiralMatrix(3,4);
+        int[][] matrix = createSpiralMatrix(4,4);
         // Print the matrix for verification
         for (int[] row : matrix) {
             for (int val : row) {
@@ -15,10 +15,8 @@ public class Main {
     }
 
     // O(NXM) where n = num of rows and m = num of cols
-    private static int[][] createSpiralMatrix(int n, int m) {
-        // Initialize variables for rows and columns
-        int rows = n;
-        int cols = m;
+    private static int[][] createSpiralMatrix(int rows, int cols) {
+
         // Create a 2D array to store the spiral matrix
         int[][] matrix = new int[rows][cols];
         // Initialize starting position (row, col) for filling the matrix
