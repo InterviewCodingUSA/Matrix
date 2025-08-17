@@ -9,3 +9,4 @@ Matrix Interview Questions.
 6. Search in sorted 2D Matrix. [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/SearchInSorted2DMatrix/SearchSorted2DMatrix/src/Main.java)
 7. Minimum Path sum. [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/MinPathSum/MinPathSum/src/Main.java)
 8. Number of Islands. [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/NumberOfIslands/NumberOfIslands/src/Main.java)
+9. Word Search. [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/WordSearch/WordSearch/src/Main.java)
