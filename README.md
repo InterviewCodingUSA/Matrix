@@ -11,3 +11,4 @@ Matrix Interview Questions.
 8. Number of Islands. [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/NumberOfIslands/NumberOfIslands/src/Main.java)
 9. Word Search. [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/WordSearch/WordSearch/src/Main.java)
 10. Word search 2 (Search if an array of words exist in matrix). [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/WordSearch2/WordSearch2/src/Main.java)
+11. Number of unique paths with obstacles. [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/UniquePathsWithObstacles/UniquePathsWithObstacles/src/Main.java)
