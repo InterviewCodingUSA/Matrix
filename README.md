@@ -5,3 +5,4 @@ Matrix Interview Questions.
 2. Create spiral Matrix. [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/CreateSpiralMatrix/CreateSpiralMatrix/src/Main.java)
 3. Flood Fill. [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/FloodFill/FloodFill/src/Main.java)
 4. Rotate Matrix. [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/RotateMatrix/RotateMatrix/src/Main.java)
+5. Set Zeros. [Code Link](https://github.com/InterviewCodingUSA/Matrix/blob/main/SetZeros/SetZeros/src/Main.java)
